@@ -4,4 +4,4 @@ My code examples are purely for practice purposes and are based on the following
 -   https://platzi.com/cursos/java-funcional/
 -   https://platzi.com/courses/java-advanced/
 
-Credits to the cool public API [Animechan](https://animechan.vercel.app/) providing good data for the test.
+Credits to the cool restful API [Animechan](https://animechan.vercel.app/) providing good data for testing purposes.
